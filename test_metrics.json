@@ -1,0 +1,11 @@
+{
+    "champion_model": "ElasticNet (Test)",
+    "test_r2": 0.7520118423627538,
+    "test_adjusted_r2": 0.7501312013879108,
+    "test_rmse": 186939.11005641916,
+    "test_mae": 104193.02417373996,
+    "test_mape": 20.328858213917815,
+    "number_of_features": 22,
+    "training_samples": 11696,
+    "test_samples": 2924
+}
